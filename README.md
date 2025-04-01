@@ -10,6 +10,22 @@ theoretically.
 [WebAssembly]: https://webassembly.org/
 [wat]: https://webassembly.github.io/spec/core/text/index.html
 
+## Acknowledgements
+
+I wouldn't have started on this particular adventure without the
+encouragement of my friend, [MonoidMusician][], who proposed the initial
+problem description and answered so many questions for me about how this
+is supposed to work. And while the result may not, technically, be
+"useful", I learned a lot and had a good time. Thank you friend!
+
+[MonoidMusician]: https://blog.veritates.love/
+
+They were in turn inspired by [Jot][], invented as "[a better Gödel
+numbering][jot-paper]", and an interesting topic in its own right.
+
+[Jot]: https://esolangs.org/wiki/Jot
+[jot-paper]: https://web.archive.org/web/20201112014512/http://www.nyu.edu/projects/barker/Iota/
+
 ## Input language
 
 SKI combinator programs consist exclusively of operators named "S", "K",
