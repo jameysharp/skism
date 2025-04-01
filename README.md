@@ -41,7 +41,7 @@ function.
 
 "K" takes two arguments and returns the first, discarding the second.
 
-"S" takes three arguments&emdash;let's call them x, y, and z&emdash;and
+"S" takes three arguments&mdash;let's call them x, y, and z&mdash;and
 applies x to z, and applies y to z, and finally applies the first to the
 second. In short, it's equivalent to `xz(yz)`.
 
